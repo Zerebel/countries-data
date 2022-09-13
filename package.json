@@ -1,0 +1,33 @@
+{
+  "name": "countries-data-visualization",
+  "version": "1.0.0",
+  "description": "Visualizes the ten most populated countries and the ten most spoken languages in the world",
+  "main": "index.js",
+  "scripts": {
+    "tail": "tailwindcss -i ./src/style.css -o ./dist/output.css --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zerebel/country_data.git"
+  },
+  "keywords": [
+    "country",
+    "data",
+    "top_10",
+    "languages",
+    "population",
+    "zerebel",
+    "tailwind",
+    "js"
+  ],
+  "author": "Zerebel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Zerebel/country_data/issues"
+  },
+  "homepage": "https://github.com/Zerebel/country_data#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.1.8"
+  }
+}
