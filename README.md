@@ -32,7 +32,7 @@
 
 ## Overview
 
-![screenshot](laptop.png)
+![screenshot](dist/demo.png)
 ....
 
 Demo URL: https://zerebel.github.io/devChallenges.github.io/
