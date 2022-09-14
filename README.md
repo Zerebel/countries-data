@@ -1,7 +1,7 @@
 # countries-data
 
 <h1 align="center">Countries Data Chart</h1>
-The ten most populated countries and the ten most spoken languages in the world
+<span align="center">The ten most populated countries and the ten most spoken languages in the world</span>
 
 <div align="center">
    Solution for a project from  <a href="https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/25_Day_World_countries_data_visualization_1/25_day_world_countries_data_visualization_1.md" target="_blank">30 Days Of Javascript</a>.
