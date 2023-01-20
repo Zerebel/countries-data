@@ -35,7 +35,7 @@
 ![screenshot](dist/demo.png)
 ....
 
-Demo URL: https://zerebel.github.io/devChallenges.github.io/
+Demo URL: https://zerebel.github.io/countries-data/
 
 ### Built With
 
